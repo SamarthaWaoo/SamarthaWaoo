@@ -4,8 +4,8 @@
 B.E. Information Technology · SGBAU · 2026 · CGPA: 7.69
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samartha-waoo/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:samarthawaoo@gmail.com)
-![Profile Views](https://hits.sh/github.com/SamarthaWaoo.svg?label=Profile+Views&color=0e75b6&labelColor=555)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=samarthawaoo@gmail.com)
+![](https://visitcount.itsvg.in/api?id=SamarthaWaoo&label=Profile%20Views&color=0&icon=0&pretty=false)
 
 ---
 
