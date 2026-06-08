@@ -4,8 +4,8 @@
 B.E. Information Technology · SGBAU · 2026 · CGPA: 7.69
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samartha-waoo/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](samarthawaoo@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=SamarthaWaoo&style=flat-square&color=0e75b6)](https://github.com/SamarthaWaoo)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:samarthawaoo@gmail.com)
+![Profile Views](https://hits.sh/github.com/SamarthaWaoo.svg?label=Profile+Views&color=0e75b6&labelColor=555)
 
 ---
 
@@ -63,11 +63,11 @@ Complete hostel administration system for student records, room allocation, visi
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamarthaWaoo&show_icons=true&hide_border=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-salesp07.vercel.app/api?username=SamarthaWaoo&count_private=true&show_icons=true&hide_border=true&theme=default)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SamarthaWaoo&hide_border=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamarthaWaoo&layout=compact&hide_border=true&theme=dark)
+![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SamarthaWaoo&layout=compact&hide_border=true&theme=default)
 
 
 
