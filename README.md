@@ -63,8 +63,6 @@ Complete hostel administration system for student records, room allocation, visi
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-salesp07.vercel.app/api?username=SamarthaWaoo&count_private=true&show_icons=true&hide_border=true&theme=default)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SamarthaWaoo&hide_border=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SamarthaWaoo&layout=compact&hide_border=true&theme=default)
