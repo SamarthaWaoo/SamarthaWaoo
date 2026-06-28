@@ -1,7 +1,7 @@
 # Samartha Waoo
 
 **IT Engineer · Full Stack Developer **  
-B.E. Information Technology · SGBAU · 2026 · CGPA: 7.69
+B.E. Information Technology · SGBAU · 2026 · CGPA: 8.36
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samartha-waoo/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=samarthawaoo@gmail.com)
